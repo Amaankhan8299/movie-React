@@ -64,11 +64,11 @@ function Footer() {
             <li>Facebook</li>
         </ul>
         <ul className="social-icons">
-            <li><a href="#"><i className='bx bxl-facebook-circle'></i></a></li>
-            <li><a href="#"><i className='bx bxl-instagram'></i></a></li>
-            <li><a href="#"><i className='bx bxl-twitter' ></i></a></li>
-            <li><a href="#"><i className='bx bxl-github' ></i></a></li>
-            <li><a href="#"><i className='bx bx-basketball' ></i></a></li>
+            <li><a href="https://facebook.com"><i className='bx bxl-facebook-circle'></i></a></li>
+<li><a href="https://instagram.com"><i className='bx bxl-instagram'></i></a></li>
+<li><a href="https://twitter.com"><i className='bx bxl-twitter'></i></a></li>
+<li><a href="https://github.com/Amaankhan8299"><i className='bx bxl-github'></i></a></li>
+<li><a href="https://dribbble.com"><i className='bx bx-basketball'></i></a></li>
         </ul>
       </div>
     </footer>
